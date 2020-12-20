@@ -1,1 +1,3 @@
 # code-refractor
+
+The reason I was so motivated to complete this project goes hand in hand with why I did this project.This project was done to help guide me in the direction I need to become a better web developer. I was able to learn that althought the project seemed simple, that statement could be no farther than the truth. I can to understand that small syntax errors in ones code can be quite problematic. 
